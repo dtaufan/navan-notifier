@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B920D4B8265F8FC600437BE6"
-               BuildableName = "IBM Notifier Alert.app"
-               BlueprintName = "IBM Notifier Alert"
+               BlueprintIdentifier = "B97583B72673643E0038A99F"
+               BuildableName = "Navan Notifier Banner.app"
+               BlueprintName = "Navan Notifier Banner"
                ReferencedContainer = "container:Notification Agent.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -48,9 +48,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B920D4B8265F8FC600437BE6"
-            BuildableName = "IBM Notifier Alert.app"
-            BlueprintName = "IBM Notifier Alert"
+            BlueprintIdentifier = "B97583B72673643E0038A99F"
+            BuildableName = "Navan Notifier Banner.app"
+            BlueprintName = "Navan Notifier Banner"
             ReferencedContainer = "container:Notification Agent.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -65,9 +65,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B920D4B8265F8FC600437BE6"
-            BuildableName = "IBM Notifier Alert.app"
-            BlueprintName = "IBM Notifier Alert"
+            BlueprintIdentifier = "B97583B72673643E0038A99F"
+            BuildableName = "Navan Notifier Banner.app"
+            BlueprintName = "Navan Notifier Banner"
             ReferencedContainer = "container:Notification Agent.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
